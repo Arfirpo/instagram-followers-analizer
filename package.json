@@ -1,0 +1,12 @@
+{
+  "name": "insagram-followers-analizer",
+  "version": "1.0.0",
+  "description": "app para verificar seguidos y seguidores de instagram",
+  "license": "ISC",
+  "author": "agustin firpo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
