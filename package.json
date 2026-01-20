@@ -1,7 +1,15 @@
 {
-  "name": "insagram-followers-analizer",
+  "name": "instagram-followers-analizer",
   "version": "1.0.0",
-  "description": "app para verificar seguidos y seguidores de instagram",
+  "description": "proyecto para analizar datos de seguidores, seguidos y determinar que amigos no te siguen de vuelta",
+  "homepage": "https://github.com/Arfirpo/instagram-followers-analizer#readme",
+  "bugs": {
+    "url": "https://github.com/Arfirpo/instagram-followers-analizer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arfirpo/instagram-followers-analizer.git"
+  },
   "license": "ISC",
   "author": "agustin firpo",
   "type": "module",
